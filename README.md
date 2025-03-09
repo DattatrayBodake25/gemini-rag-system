@@ -134,11 +134,4 @@ Some key dependencies include:
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
-
-## 📧 Contact
-For any queries or issues, feel free to reach out!
-
----
-
 **🚀 Happy Coding! 🎯**
