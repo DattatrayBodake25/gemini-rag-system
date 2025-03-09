@@ -41,7 +41,7 @@ rag_system/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/DattatrayBodake25/gemini-rag-system
 cd rag_system
 ```
 
